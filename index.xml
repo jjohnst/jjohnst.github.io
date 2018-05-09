@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, I&#39;m Josh</title>
-    <link>http://jjohnst.github.io/</link>
+    <link>http://jjohnst.github.io/index.html/</link>
     <description>Recent content on Hi, I&#39;m Josh</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 09 May 2018 09:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://jjohnst.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jjohnst.github.io/index.html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://jjohnst.github.io/about/</link>
+      <link>http://jjohnst.github.io/index.html/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jjohnst.github.io/about/</guid>
+      <guid>http://jjohnst.github.io/index.html/about/</guid>
       <description>I&amp;rsquo;m a front-end engineer currently working at Garmin on Garmin Connect.
 I use Backbone and React to make visualizations for fitness data.
 I like playing basketball, I&amp;rsquo;m an avid Clemson football fan, and I&amp;rsquo;m currently working on my Master&amp;rsquo;s at Georgia Tech.</description>
@@ -23,19 +23,19 @@ I like playing basketball, I&amp;rsquo;m an avid Clemson football fan, and I&amp
     
     <item>
       <title>Things I Like Part 2</title>
-      <link>http://jjohnst.github.io/posts/things-i-like-2/</link>
+      <link>http://jjohnst.github.io/index.html/posts/things-i-like-2/</link>
       <pubDate>Wed, 09 May 2018 09:00:00 +0600</pubDate>
       
-      <guid>http://jjohnst.github.io/posts/things-i-like-2/</guid>
+      <guid>http://jjohnst.github.io/index.html/posts/things-i-like-2/</guid>
       <description> Interesting Things  GM and Tesla Where the Civil War Started and Ended Alexander Graham Bell Recording Bicameral Mind Rap Snacks  </description>
     </item>
     
     <item>
       <title>Things I Like</title>
-      <link>http://jjohnst.github.io/posts/things-i-like/</link>
+      <link>http://jjohnst.github.io/index.html/posts/things-i-like/</link>
       <pubDate>Fri, 27 Apr 2018 09:00:00 +0600</pubDate>
       
-      <guid>http://jjohnst.github.io/posts/things-i-like/</guid>
+      <guid>http://jjohnst.github.io/index.html/posts/things-i-like/</guid>
       <description> I thought it would be interesting to publish a list of 5 things that I found interesting or liked during the week. I may go bakc and add context
 Things I Like  Lebron in the playoffs Vietnamese food People who make music in their bedrooms The World After Capital This tool  </description>
     </item>

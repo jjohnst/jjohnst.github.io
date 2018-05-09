@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jjohnst.github.io/posts/</loc>
+    <loc>http://jjohnst.github.io/index.html/posts/</loc>
     <lastmod>2018-05-09T09:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/about/</loc>
+    <loc>http://jjohnst.github.io/index.html/about/</loc>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/posts/things-i-like-2/</loc>
+    <loc>http://jjohnst.github.io/index.html/posts/things-i-like-2/</loc>
     <lastmod>2018-05-09T09:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/posts/things-i-like/</loc>
+    <loc>http://jjohnst.github.io/index.html/posts/things-i-like/</loc>
     <lastmod>2018-04-27T09:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/authors/</loc>
+    <loc>http://jjohnst.github.io/index.html/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/categories/</loc>
+    <loc>http://jjohnst.github.io/index.html/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/</loc>
+    <loc>http://jjohnst.github.io/index.html/</loc>
     <lastmod>2018-05-09T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/tags/interests/</loc>
+    <loc>http://jjohnst.github.io/index.html/tags/interests/</loc>
     <lastmod>2018-05-09T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/authors/jjohnst/</loc>
+    <loc>http://jjohnst.github.io/index.html/authors/jjohnst/</loc>
     <lastmod>2018-05-09T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/tags/likes/</loc>
+    <loc>http://jjohnst.github.io/index.html/tags/likes/</loc>
     <lastmod>2018-05-09T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/page/</loc>
+    <loc>http://jjohnst.github.io/index.html/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/series/</loc>
+    <loc>http://jjohnst.github.io/index.html/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/tags/</loc>
+    <loc>http://jjohnst.github.io/index.html/tags/</loc>
     <lastmod>2018-05-09T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
