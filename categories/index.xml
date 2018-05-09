@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hi, I&#39;m Josh</title>
-    <link>http://jjohnst.github.io/index.html/categories/</link>
+    <link>http://jjohnst.github.io/categories/</link>
     <description>Recent content in Categories on Hi, I&#39;m Josh</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://jjohnst.github.io/index.html/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jjohnst.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
