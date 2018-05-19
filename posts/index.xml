@@ -5,13 +5,22 @@
     <link>http://jjohnst.github.io/posts/</link>
     <description>Recent content in Posts on Hi, I&#39;m Josh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 May 2018 09:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 19 May 2018 09:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://jjohnst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Things I Like Part 2</title>
+      <title>Things I Like Vol 3</title>
+      <link>http://jjohnst.github.io/posts/things-i-like-3/</link>
+      <pubDate>Sat, 19 May 2018 09:00:00 +0600</pubDate>
+      
+      <guid>http://jjohnst.github.io/posts/things-i-like-3/</guid>
+      <description> Interesting Things  Robert Morris of the Morris Worm and YC These AI phone calls The two philosophies of tech Andrew Ng on Machine Learning and AI The internet in &amp;lsquo;96  </description>
+    </item>
+    
+    <item>
+      <title>Things I Like Vol 2</title>
       <link>http://jjohnst.github.io/posts/things-i-like-2/</link>
       <pubDate>Wed, 09 May 2018 09:00:00 +0600</pubDate>
       
@@ -20,12 +29,12 @@
     </item>
     
     <item>
-      <title>Things I Like</title>
+      <title>Things I Like Vol 1</title>
       <link>http://jjohnst.github.io/posts/things-i-like/</link>
       <pubDate>Fri, 27 Apr 2018 09:00:00 +0600</pubDate>
       
       <guid>http://jjohnst.github.io/posts/things-i-like/</guid>
-      <description> I thought it would be interesting to publish a list of 5 things that I found interesting or liked during the week. I may go bakc and add context
+      <description> I thought it would be interesting to publish a list of 5 things that I found interesting or liked during the week. I may publish these weekly or wait until I have 5 things to list. I may go back and add context.
 Things I Like  Lebron in the playoffs Vietnamese food People who make music in their bedrooms The World After Capital This tool  </description>
     </item>
     
