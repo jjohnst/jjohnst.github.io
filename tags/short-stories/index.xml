@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short stories on Hi, I&#39;m Josh</title>
+    <link>http://jjohnst.github.io/tags/short-stories/</link>
+    <description>Recent content in Short stories on Hi, I&#39;m Josh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Feb 2017 09:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://jjohnst.github.io/tags/short-stories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anchorman</title>
+      <link>http://jjohnst.github.io/posts/anchorman/</link>
+      <pubDate>Mon, 06 Feb 2017 09:00:00 +0600</pubDate>
+      
+      <guid>http://jjohnst.github.io/posts/anchorman/</guid>
+      <description>“They tell you the first rule is not to die don’t they?”
+“I beg your pardon?”
+“When you’re signing the release papers they always tell you that the first rule is not to die because then you can’t go back. I just assumed they told you the same thing.”
+He stared at the pretty woman in the black dress, sitting two chairs down the bar, who was apparently speaking to him.</description>
+    </item>
+    
+  </channel>
+</rss>

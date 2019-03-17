@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jjohnst.github.io/bullet-posts/</loc>
+    <lastmod>2018-05-18T09:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jjohnst.github.io/posts/</loc>
-    <lastmod>2018-05-19T09:00:00+06:00</lastmod>
+    <lastmod>2017-02-06T09:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -12,18 +17,33 @@
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/posts/things-i-like-3/</loc>
-    <lastmod>2018-05-19T09:00:00+06:00</lastmod>
+    <loc>http://jjohnst.github.io/bullet-posts/may-18-2/</loc>
+    <lastmod>2018-05-18T09:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/posts/things-i-like-2/</loc>
-    <lastmod>2018-05-09T09:00:00+06:00</lastmod>
+    <loc>http://jjohnst.github.io/bullet-posts/may-18-1/</loc>
+    <lastmod>2018-05-11T09:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jjohnst.github.io/posts/things-i-like/</loc>
+    <loc>http://jjohnst.github.io/bullet-posts/april-18-1/</loc>
     <lastmod>2018-04-27T09:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jjohnst.github.io/posts/anchorman/</loc>
+    <lastmod>2017-02-06T09:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jjohnst.github.io/posts/outside-social-context/</loc>
+    <lastmod>2014-05-27T09:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jjohnst.github.io/posts/facebook-has-a-content-problem/</loc>
+    <lastmod>2014-05-26T09:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -38,25 +58,25 @@
   
   <url>
     <loc>http://jjohnst.github.io/</loc>
-    <lastmod>2018-05-19T09:00:00+06:00</lastmod>
+    <lastmod>2018-05-18T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jjohnst.github.io/tags/interests/</loc>
-    <lastmod>2018-05-19T09:00:00+06:00</lastmod>
+    <lastmod>2018-05-18T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jjohnst.github.io/authors/jjohnst/</loc>
-    <lastmod>2018-05-19T09:00:00+06:00</lastmod>
+    <lastmod>2018-05-18T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jjohnst.github.io/tags/likes/</loc>
-    <lastmod>2018-05-19T09:00:00+06:00</lastmod>
+    <lastmod>2018-05-18T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,8 +91,20 @@
   </url>
   
   <url>
+    <loc>http://jjohnst.github.io/tags/short-stories/</loc>
+    <lastmod>2017-02-06T09:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jjohnst.github.io/tags/social-media/</loc>
+    <lastmod>2014-05-27T09:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://jjohnst.github.io/tags/</loc>
-    <lastmod>2018-05-19T09:00:00+06:00</lastmod>
+    <lastmod>2018-05-18T09:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
